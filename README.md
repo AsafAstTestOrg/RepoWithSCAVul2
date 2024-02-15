@@ -8,6 +8,4 @@ Please read latest features and fixes from the [Releases](https://github.com/che
 mvn clean install
 
 ## Contributing
-Please read through our [contributing guidelines](CONTRIBUTING.md).
-
-
+Please read through our [contributing guidelines](CONTRIBUTING.md)
