@@ -5,6 +5,8 @@ Organizations repositories manager
 Please read latest features and fixes from the [Releases](https://github.com/checkmarx-ltd/Cx-Client-Common/releases/latest).
 
 ## Build
+
+
 mvn clean install
 
 ## Contributing
